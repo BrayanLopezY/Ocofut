@@ -1,0 +1,149 @@
+body {
+    background-color: aquamarine;
+    background-color: rgb(34, 24, 102);
+}
+
+.bloque-inicial {
+    height: 50vh;
+}
+
+#titulo {
+    font-size: 70px;
+    text-align: center;
+    position: relative;
+    top: 20%;
+}
+
+footer {
+    position: fixed !important;
+    height: 10vh;
+    bottom: 0;
+    background-color: #333333;
+    width: 100%;
+    color: #EEEEEE;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+.descripcion {
+    font-size: 20px;
+    color: #333333;
+    text-align: justify;
+    width: 90%;
+    /*text-align: center;*/
+    margin: auto;
+    /* transition: opacity 0.5s ease-in-out; */
+}
+
+.contenedor-acciones {
+    text-align: center;
+}
+
+.contenedor-div {
+    position: static;
+    top: 40%;
+    left: 80%;
+    transform:
+        translate(-50%, -50%);
+}
+
+/*********** BOOTSTRAP *******/
+.navbar-brand {
+    font-size: 2rem !important;
+}
+
+.nav-item {
+    font-size: 1.7rem !important;
+}
+
+.navbar {
+    background-color: #1c1c34 !important;
+    box-shadow: 3px 3px 10px #333355;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+}
+
+.tex {
+    color: #198754;
+}
+
+.seccion-catalogo {
+    height: 90vh;
+}
+
+.titulo-catalogo {
+    text-align: center;
+}
+
+/* div.regreso{
+    margin-right: 100vh;
+} */
+
+.txt-catalogo {
+    font-size: 20px;
+    text-align: center;
+}
+
+.booton-formulario {
+    text-align: center;
+    position: relative;
+}
+
+.tabla {
+    font-size: 20px;
+    background-color: blueviolet;
+}
+
+.tabla-jugdor {
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    margin: 25 auto;
+    width: 100%;
+}
+
+th,
+td {
+    width: 25%;
+    border-collapse: collapse;
+    padding: 6px 7px;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #3498db;
+    color: white;
+    font-weight: bold;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+tr:hover {
+    background-color: #f1f1f1;
+}
+
+.centro {
+    box-shadow: 0 2px 10px rgba(31, 29, 29, 0.1);
+    margin: 25 auto;
+    width: 50%;
+}
+
+.form-inline{
+    display: inline;
+}
+
+.float-right {
+    float: right;
+}
+.seleccion{
+    margin: 15 auto;
+    background-color: #198754;
+    color: black;
+}
+
+.modo{
+    margin: 15 auto;
+    background-color:silver;
+}

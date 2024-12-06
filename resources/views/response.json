@@ -1,0 +1,36 @@
+{
+    "routes" : 
+    [
+       {
+          "legs" : 
+          [
+             {
+                "distance" : 
+                {
+                   "text" : "96.4 km",
+                   "value" : 96449
+                },
+                "duration" : 
+                {
+                   "text" : "21 hours 45 mins",
+                   "value" : 78310
+                },
+                "end_address" : "Av. Segunda Sur Ote. 2011, Candelaria, 29950 Ocosingo, Chis., Mexico",
+                "end_location" : 
+                {
+                   "lat" : 16.9095491,
+                   "lng" : -92.08980799999999
+                },
+                "start_address" : "Vía sin nombre, 29300 Chis., Mexico",
+                "start_location" : 
+                {
+                   "lat" : 16.733466,
+                   "lng" : -92.68318769999999
+                }
+        
+             }
+          ],
+          "summary" : "Ocosingo - San Cristóbal de las Cases/San Cristóbal de las Cases - Ocosingo/México 199"
+       }
+    ]
+ }
