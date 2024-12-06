@@ -2,7 +2,7 @@
 @section('contenido')
 <div class="bloque-inicial">
   <h1 id="titulo">4GT</h1>
-  <h1 id="titulo">Liga Futbol</h1>
+  <h1 id="titulo">Liga Futbol Ocosingo</h1>
 </div>
 <p class="descripcion">
 El proyecto consiste en desarrollar una aplicación web para la liga municipal de fútbol "Julio César Solórzano Paniagua".
